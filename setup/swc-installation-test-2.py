@@ -92,7 +92,7 @@ CHECKS = [
     'git',
     #'hg',              # Command line tool
     #'mercurial',       # Python package
-    'EasyMercurial',
+    #'EasyMercurial',
 # Build tools and packaging
     'make',
     #'virtual-pypi-installer',
